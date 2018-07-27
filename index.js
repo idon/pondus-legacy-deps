@@ -1,0 +1,12 @@
+require("./lib/jquery.address");
+require("./lib/jquery.dynatree");
+require("./lib/jquery.hotkeys");
+require("./lib/jquery.event.drag-2.2");
+require("./lib/slick.core");
+require("./lib/slick.grid");
+require("./lib/slick.dataview");
+require("./lib/slick.editors");
+require("./lib/slick.groupitemmetadataprovider");
+require("./lib/slick.autotooltips");
+require("./lib/slick.rowselectionmodel");
+require("./lib/slick.checkboxselectcolumn");
